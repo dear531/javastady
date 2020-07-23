@@ -10,5 +10,6 @@ class global_local {
 	public static void main(String[] args) {
 		int times = 4;
 		System.out.println("times :" + times);
+		int a = 5 / 0;
 	}
 }
