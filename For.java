@@ -4,6 +4,7 @@ public class For {
 			System.out.println(i);
 		}
 		int array[] = {21, 23, 25};
+		/* 冒号后的元素为数组或者集合类 */
 		for (int i : array) {
 			System.out.println(i);
 		}
