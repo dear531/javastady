@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Arrays;
 
 public class Arrays_fill {
 	public static void main(String[] args) {
